@@ -1,6 +1,6 @@
 namespace DevJobs.API.Models
 {
-    public record UpdateJobVacancyInputModel(string Title, string Decription)
+    public record UpdateJobVacancyInputModel(string Title, string Description)
     {
 
     }
