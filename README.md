@@ -7,6 +7,7 @@ Esse projeto foi desenvolvido na jornada .NET direto ao ponto. Tal projeto tem c
 - ASP.NET Web API
 - Entity Framework Core
 - SQL Server
+- Swagger
 - Serilog
 - Azure App Service
 
